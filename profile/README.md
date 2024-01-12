@@ -1,2 +1,2 @@
 ### WBS CODING SCHOOL
-## Corrections by Patrick
+## Lösungen und Ressourcen 
